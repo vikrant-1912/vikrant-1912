@@ -2,15 +2,15 @@
 
 🎓 B.Tech CSE (Data Science) 2021 - 2025 | Galgotias University , Greater Noida <br> <br>
 💻 Software Developer | Frontend Enthusiast <br> <br>
-💻 HTML | 🎨 CSS3 | ⚙️ JavaScript | 🌬️ Tailwind CSS | 🧰 Git & GitHub | ⚛️ React.js | 🔀 React Router | 🛢️ SQL | 🧠 Redux (Learning) <br> <br>
+🚀 HTML | 🎨 CSS3 | ⚙️ JavaScript | 🌬️ Tailwind CSS | 🧰 Git & GitHub | ⚛️ React.js | 🔀 React Router | 🛢️ SQL | 🧠 Redux (Learning) <br> <br>
 📍 Greater Noida , India <br>
 
 
-🚀   
+💻👋 
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me 👋
 
 - 💡 Currently exploring Full-Stack Development with Redux, Node.js. with Express.js, MySQL & diving deeper into DSA (Java) to Convert my Career into a Software Development Engineer (SDE) Profile.
 - 🛠️ Passionate about building intuitive and responsive Web Apps.
