@@ -33,9 +33,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [Amazon Clone](https://github.com/vikrant-1912/Amazon-clone-1) | E-commerce frontend with cart and product pages | React, CSS |
-| [Tic Tac Toe](https://github.com/vikrant-1912/tic-tac-toe) | Classic game with React hooks | React |
-| [Rock Paper Scissors](https://github.com/vikrant-1912/rock-paper-scissor) | Simple game UI using DOM | JS, HTML, CSS |
+| [Amazon Clone](https://github.com/vikrant-1912/Amazon-clone-1) | E-commerce frontend with cart and product pages | HTML5 & CSS3 |
+| [Tic Tac Toe](https://github.com/vikrant-1912/tic-tac-toe) | Classic game | HTML5 , CSS3 & JavaScript |
+| [Rock Paper Scissors](https://github.com/vikrant-1912/rock-paper-scissor) | Simple game UI using DOM | JS, HTML5 , CSS3 |
 
 ---
 
