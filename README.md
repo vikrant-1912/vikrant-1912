@@ -21,11 +21,22 @@
 ### 🧰 Tech Stack
 
 **Frontend**  
-`HTML` `CSS` `JavaScript` `React` `Redux` `Tailwind CSS`  
+`HTML5` `CSS3` `JavaScript` `React`  
 
-**Backend & Tools**  (Learning )
-`Node.js` `Express.js` `MongoDB`  
-`Git` `GitHub` `Vercel`  
+**Backend**  (Learning )
+`Node.js` `Express.js` 
+
+**Database**
+`MySQL`
+
+**Tools/Platforms**
+`Git` `GitHub` `VS Code` `Vercel` 
+
+**Frameworks/Libraries**
+`React` `React-Router` `Redux` `Tailwind CSS`
+
+**Other Concepts**
+`API Integration` `Responsive web` `Basic CS Fundamentals`
 
 ---
 
