@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Vikrant Khatana
 
 🎓 B.Tech CSE (Data Science) 2021 - 2025 | Galgotias University , Greater Noida <br>
-💻 Software Developer | Frontend Enthusiast 
+💻 Software Developer | Frontend Enthusiast <br>
 💻 HTML | 🎨 CSS3 | ⚙️ JavaScript | 🌬️ Tailwind CSS | 🧰 Git & GitHub | ⚛️ React.js | 🔀 React Router | 🛢️ SQL | 🧠 Redux (Learning) <br> 
 📍 Greater Noida , India <br>
 
-🚀 **Software Developer**  
 
+🚀   
 
 ---
 
