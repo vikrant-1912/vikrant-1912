@@ -23,7 +23,7 @@
 
 ### 🧰 Tech Stack
 
-**Frontend**  
+**Frontend Languages**  
 `HTML5` `CSS3` `JavaScript` `React`  
 
 **Backend**  (Learning )
@@ -40,6 +40,9 @@
 
 **Other Concepts**
 `API Integration` `Responsive web` `Basic CS Fundamentals`
+
+**Problem - Solving**
+`Core DSA with Java`
 
 ---
 
