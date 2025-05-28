@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💡 Currently exploring Full-Stack Development with Redux, Node.js. with Express.js, MySQL & diving deeper into DSA (Java)to  Convertt my Career into a Software Development Engineer (SDE) Profile.
+- 💡 Currently exploring Full-Stack Development with Redux, Node.js. with Express.js, MySQL & diving deeper into DSA (Java) to Convert my Career into a Software Development Engineer (SDE) Profile.
 - 🛠️ Passionate about building intuitive and responsive Web Apps.
 - 🎓 Completed AI-ML Internship by **Google AICTE Eduskills** & Many Virtual internships by AICTE Eduskills Academy.
 - 📱 Built Frontend clone **Amazon** &  Advanced my Tech-Skills with many Frontend Projects like **Tic Tac Toe**, **Rock Paper Scissors**, and **Currency Converter Using API**
