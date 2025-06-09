@@ -92,15 +92,13 @@
 ---
 
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
 ![Vikrant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikrant-1912&show_icons=true&theme=radical&rank_icon=github&hide=issues)
 
 
-
 ## 📌 Most Used Languages
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-1912&layout=compact&theme=radical)
 
