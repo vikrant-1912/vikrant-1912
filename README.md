@@ -59,8 +59,9 @@
 ### 📫 Reach Me
 
 - ✉️ [vikrantkumar81811@gmail.com](mailto:vikrantkumar81811@gmail.com)
+- ✉️ [vikrantkhatana15@gmail.com](mailto:vikrantkhatana15@gmail.com)  - ## ALTERNATE E-mail ##
 - 🌐 [LinkedIn](https://linkedin.com/in/vikrant1912) *(Let's Connect there )*
-- 🚀 [Portfolio](https://-------.vercel.app) *(hosting to be Soooooon)*
+- 🚀 [Portfolio](https://684351669f76a84a3d4e74a5--courageous-jelly-fd5710.netlify.app/) *(hosted Successfully )*
 
 ---
 
