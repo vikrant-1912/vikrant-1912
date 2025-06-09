@@ -93,7 +93,8 @@
 
 
 
-## 📊 GitHub Stats & Most Used Languages Data
+## 📊 GitHub Stats & Most Used Languages Data 
+
 
 | GitHub Stats | Most Used Languages |
 |--------------|---------------------|
@@ -101,13 +102,6 @@
 
 
 
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikrant-1912&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-1912&layout=compact&theme=radical)
 
 
 
