@@ -53,7 +53,7 @@
 | [Amazon Clone](https://github.com/vikrant-1912/Amazon-clone-1) | One of the Major Project i.e E-commerce Frontend with Cart, product Modal, Login and Other Funtionalities Giving User a Rich-UI Experience  | HTML5 , CSS3 and JavaScript , Responsive Design |
 | [Tic Tac Toe](https://github.com/vikrant-1912/tictactoe-GAME) |A  ClassicWeb - game Giving Users Smoothing Experience while Playing | HTML5 , CSS3 & JavaScript |
 | [Rock Paper Scissors](https://github.com/vikrant-1912/rockpaperscissor-GAME) | A Simple Game UI using DOM | JavaScript ES6+, HTML5 , CSS3 |
-| [PortFolio SPA ](https://github.com/vikrant-1912/PortFolio-SPA.git) | Personal portfolio Website (SPA ) built with Advanced React Concepts and React-Router , Giving Dynamic Website user-experience | React.js , Tailwind CSS , Routers , Responsive Design |
+| [PortFolio SPA ](https://github.com/vikrant-1912/PortFolio-SPA.git) | Personal portfolio Website (SPA ) built using Advanced React Concepts + React-Router , Giving Dynamic Website user-experiences | React.js , Tailwind CSS , Routers , Responsive Design |
 
 ---
 
