@@ -61,7 +61,8 @@
 ### 📫 Reach Me
 
 - ✉️ [vikrantkumar81811@gmail.com](mailto:vikrantkumar81811@gmail.com)  - ## ALTERNATE E-mail ##
-  
+
+  <br>
 
 1. [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub](https://github.com/vikrant-1912)
    
