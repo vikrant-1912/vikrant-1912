@@ -56,6 +56,8 @@
 
 ---
 
+
+<br> 
 ### 📫 Reach Me
 
 - ✉️ [vikrantkumar81811@gmail.com](mailto:vikrantkumar81811@gmail.com)  - ## ALTERNATE E-mail ##
@@ -73,8 +75,13 @@
 7. [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) Email](mailto:vikrantkhatana15@gmail.com) - ## PRIMARY E-mail ##
    
 
-   
+<br> 
+
+
 - 🚀 [Portfolio](https://684351669f76a84a3d4e74a5--courageous-jelly-fd5710.netlify.app/) *(hosted Successfully )*
+
+
+
 
 ---
 
